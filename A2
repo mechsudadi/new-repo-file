@@ -1,8 +1,12 @@
 print("this is android 2nd app")
 game1:battfield
 game2:call of duty
+<<<<<<< HEAD
+UPDATED BY FIRST DEVELOPER
+=======
 updated by second devloper locally
-
+>>>>>>> 59df4ce765fda96cc7984eddc71b320a6be790c2
+new code added by second developer
 
 
 
