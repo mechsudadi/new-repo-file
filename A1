@@ -2,4 +2,8 @@ print("enter the android apps")
 print("this is not a android app")
 PRINT("I AM A GAMER")
 added by second user developer
+<<<<<<< HEAD
+updated done
+=======
 NEW CODE ADDED BY DEVELOPER
+>>>>>>> 76bfa8a53569266597f4dd5879ebf9b7deaedba8
